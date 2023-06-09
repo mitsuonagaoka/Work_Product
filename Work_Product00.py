@@ -3,7 +3,7 @@
 import sqlite3
 
 import streamlit as st
-import pandas as pd
+# import pandas as pd
 
 # データベースに接続
 db_name = 'product.db'
