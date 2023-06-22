@@ -4,7 +4,7 @@ import sqlite3
 
 import pandas as pd
 import streamlit as st
-# import pandas as pd
+import datetime
 
 # データベースに接続
 db_name = 'product.db'
